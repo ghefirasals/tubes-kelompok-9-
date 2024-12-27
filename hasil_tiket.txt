@@ -1,0 +1,8 @@
+=== Tiket Pemesanan Tiketyu ===
+Film            : Avatar
+Lokasi          : Cinema XXI Mall A
+Waktu Tayang    : 08:00 AM
+Metode Pembayaran: Cash
+Kursi Terpilih  : R3C2, R3C3
+
+Terima kasih telah menggunakan Tiketyu!

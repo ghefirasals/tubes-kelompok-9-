@@ -1,0 +1,7 @@
+Tiketyu Ticket
+-------------------
+Movie: The Batman
+Location: Cinema XXI Mall B
+Show Time: 01:00 PM
+Payment Method: Debit
+Thank you for booking with Tiketyu!
